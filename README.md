@@ -41,7 +41,9 @@ Para instalar y ejecutar este proyecto, sigue estos pasos:
     ```
 
 4. **Accede a la aplicación**:
+    ```bash
    Abre [http://localhost:5173](http://localhost:5173) en tu navegador.
+    ```
 
 ## Uso
 1. En la interfaz de usuario, verás dos paneles para los usuarios de chat, cada uno con su foto de perfil y nombre generados automáticamente.
