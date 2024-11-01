@@ -42,7 +42,7 @@ Para instalar y ejecutar este proyecto, sigue estos pasos:
 
 4. **Accede a la aplicación**:
     ```bash
-   Abre [http://localhost:5173](http://localhost:5173) en tu navegador.
+   Abre el *LocalHost* en tu navegador.
     ```
 
 ## Uso
