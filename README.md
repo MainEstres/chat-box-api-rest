@@ -1,4 +1,4 @@
-# ChatBox APIREST
+# ChatBox API REST
 
 Este proyecto es una mini aplicación de chat que permite el diálogo entre dos desconocidos. Ambas personas son obtenidas a través de la API Random User, lo que proporciona perfiles de usuarios aleatorios para simular la experiencia de chat.
 
@@ -17,7 +17,7 @@ La aplicación permite a dos usuarios, generados aleatoriamente, intercambiar me
 - CSS
 - JavaScript
 - API Random User
-- Frameworks Vue
+- Framework Vue
 
 ## Instalación
 
